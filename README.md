@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA and Full Stack Development**
 
-- 👯 I’m looking to collaborate on [SmartGlass](https://github.com/ridham1906/SmartGlass)
-
 - 💬 Ask me about **Java, DSA, JavaScript and React**
 
 - 📫 How to reach me **shivamrajpoddar01@gmail.com**
